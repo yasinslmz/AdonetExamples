@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ImageProccess\ImageProccess\bin\Debug\ImageProccess.exe.config
+C:\Users\Admin\source\repos\ImageProccess\ImageProccess\bin\Debug\ImageProccess.exe
+C:\Users\Admin\source\repos\ImageProccess\ImageProccess\bin\Debug\ImageProccess.pdb
+C:\Users\Admin\source\repos\ImageProccess\ImageProccess\obj\Debug\ImageProccess.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ImageProccess\ImageProccess\obj\Debug\ImageProccess.Form1.resources
+C:\Users\Admin\source\repos\ImageProccess\ImageProccess\obj\Debug\ImageProccess.Properties.Resources.resources
+C:\Users\Admin\source\repos\ImageProccess\ImageProccess\obj\Debug\ImageProccess.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ImageProccess\ImageProccess\obj\Debug\ImageProccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ImageProccess\ImageProccess\obj\Debug\ImageProccess.exe
+C:\Users\Admin\source\repos\ImageProccess\ImageProccess\obj\Debug\ImageProccess.pdb

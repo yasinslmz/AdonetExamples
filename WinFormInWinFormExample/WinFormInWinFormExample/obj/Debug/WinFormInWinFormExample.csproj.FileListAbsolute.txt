@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\WinFormInWinFormExample\WinFormInWinFormExample\bin\Debug\WinFormInWinFormExample.exe.config
+C:\Users\Admin\source\repos\WinFormInWinFormExample\WinFormInWinFormExample\bin\Debug\WinFormInWinFormExample.exe
+C:\Users\Admin\source\repos\WinFormInWinFormExample\WinFormInWinFormExample\bin\Debug\WinFormInWinFormExample.pdb
+C:\Users\Admin\source\repos\WinFormInWinFormExample\WinFormInWinFormExample\obj\Debug\WinFormInWinFormExample.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WinFormInWinFormExample\WinFormInWinFormExample\obj\Debug\WinFormInWinFormExample.Form1.resources
+C:\Users\Admin\source\repos\WinFormInWinFormExample\WinFormInWinFormExample\obj\Debug\WinFormInWinFormExample.Form2.resources
+C:\Users\Admin\source\repos\WinFormInWinFormExample\WinFormInWinFormExample\obj\Debug\WinFormInWinFormExample.Properties.Resources.resources
+C:\Users\Admin\source\repos\WinFormInWinFormExample\WinFormInWinFormExample\obj\Debug\WinFormInWinFormExample.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WinFormInWinFormExample\WinFormInWinFormExample\obj\Debug\WinFormInWinFormExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WinFormInWinFormExample\WinFormInWinFormExample\obj\Debug\WinFormInWinFormExample.exe
+C:\Users\Admin\source\repos\WinFormInWinFormExample\WinFormInWinFormExample\obj\Debug\WinFormInWinFormExample.pdb
+C:\Users\Admin\source\repos\WinFormInWinFormExample\WinFormInWinFormExample\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\WinFormInWinFormExample\WinFormInWinFormExample\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\source\repos\WinFormInWinFormExample\WinFormInWinFormExample\obj\Debug\WinFormInWinFormExample.csproj.CopyComplete
